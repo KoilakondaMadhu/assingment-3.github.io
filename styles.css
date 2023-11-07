@@ -1,0 +1,5 @@
+/* styles.css */
+.tall-section {
+    background-color: #3498db; /* Set your desired background color */
+    min-height: 1000px; /* Set the minimum height to make it really tall */
+}
